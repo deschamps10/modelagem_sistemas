@@ -1,0 +1,24 @@
+
+Diagrama de Caso de Uso Desvendando o Mapa do Tesouro do Sistema!
+Imagine um sistema como um grande navio pirata cheio de funções e recursos para navegar pelos mares da informação. Mas como saber o que cada parte faz, quem a usa e como tudo se encaixa É aí que entra o Diagrama de Caso de Uso, nosso mapa do tesouro do sistema!
+
+Pontos-chave
+
+Termo	O que é	Analogia
+Ator	Pessoa, animal, máquina ou sistema que usa o sistema	Pirata, sereia, tubarão, navio fantasma
+Caso de Uso	Tarefa que um ator pode realizar no sistema	Procurar o mapa do tesouro, navegar até a ilha, desenterrar o baú
+Associação	Ligação entre um ator e um caso de uso	Linhas no mapa que guiam os piratas até o tesouro
+Generalização	Um caso de uso herda características de outro	Um mapa geral que leva a vários mapas específicos
+Inclusão	Um caso de uso é parte de outro caso de uso	Um mapa que revela um segredo escondido em outro mapa
+História
+
+Era uma vez, um jovem pirata chamado João. Ele sonhava em encontrar o lendário tesouro do Barba Negra. Para isso, precisava navegar pelos mares usando seu navio, o Pirata Esperto.
+
+João era o ator principal da história. O sistema era o Pirata Esperto, com diversas funções
+
+Navegar João usava o leme e as velas para navegar (caso de uso).
+Atirar canhões Se piratas inimigos atacassem, João usava os canhões (outro caso de uso).
+Ler o mapa O mapa mostrava o caminho para o tesouro (associação entre João e o caso de uso Ler o mapa).
+Um dia, João encontrou um mapa antigo em uma ilha deserta. O mapa era um caso de uso geral, pois mostrava a localização de vários tesouros.
+
+Ao analisar o mapa, João percebeu que precisaria de outro mapa mais específico para encontrar o tesouro do Barba Negra. Esse mapa era um caso de uso específico que se incluía no mapa geral.
